@@ -1,4 +1,4 @@
-# Twitter-Lists-SNA-EgoNetwork
+# Twitter-Lists-SNA-EgoNetworks
 A python script for analysing social networks on Twitter through Ego Networks of lists of accounts
 
 ## Description
