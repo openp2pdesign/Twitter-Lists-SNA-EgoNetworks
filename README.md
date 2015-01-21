@@ -1,6 +1,8 @@
 # Twitter-Lists-SNA-EgoNetworks
 A python script for analysing social networks on Twitter through Ego Networks of lists of accounts
 
+<a href="http://dx.doi.org/10.5281/zenodo.14139"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.14139.svg" alt="10.5281/zenodo.14139"></a>
+
 ## Description
 There are two scripts:
 
